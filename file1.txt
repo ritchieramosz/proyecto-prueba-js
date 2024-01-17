@@ -1,1 +1,2 @@
-estamos probando y creando un programa y simulando un entorno de trabajo para subir a git
+estamos probando y creando un programa y simulando un entorno de trabajo para subir a git.
+desde rama
